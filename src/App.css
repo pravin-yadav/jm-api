@@ -1,0 +1,45 @@
+.hot-data {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  margin: 5% 10%;
+}
+
+.data-content {
+  margin-left: 5%;
+}
+.title {
+  font-size: 20px;
+  font-weight: normal;
+  color: #0000ff;
+  padding: 0px;
+  line-height: 18px;
+  margin-bottom: 20px;
+}
+.submitted {
+  margin-bottom: 20px;
+  color: #888;
+}
+.title:hover {
+  text-decoration-line: underline;
+}
+
+a.data-comment {
+  color: #888;
+  font-weight: bold;
+  margin: 0px 5px;
+}
+
+a.data-comment:hover {
+  text-decoration-line: underline;
+}
+
+.login {
+  width: 30%;
+}
+.login-form-forgot {
+  text-align: right;
+}
+.login-form-button {
+  width: 100%;
+}
